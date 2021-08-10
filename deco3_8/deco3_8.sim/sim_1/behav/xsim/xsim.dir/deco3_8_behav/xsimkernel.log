@@ -1,0 +1,4 @@
+Running: xsim.dir/deco3_8_behav/xsimk.exe -simmode gui -wdb deco3_8_behav.wdb -simrunnum 0 -socket 57675
+Design successfully loaded
+Design Loading Memory Usage: 7172 KB (Peak: 7172 KB)
+Design Loading CPU Usage: 62 ms
